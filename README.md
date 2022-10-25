@@ -7,6 +7,35 @@ This is a repo to collect all useful materials covering federated learning, XAI,
 
 ## Federated Learning 
 
+http://wikicfp.com/cfp/call?conference=federated%20learning
+
+International Workshop on Federated Learning: Recent Advances and New Challenges
+in Conjunction with NeurIPS 2022 (FL-NeurIPS'22)
+https://federated-learning.org/fl-neurips-2022/
+
+Trustworthy Federated Ubiquitous Learning (TrustFUL) Research Lab
+https://trustful.federated-learning.org/
+
+International Workshop on Federated Learning for User Privacy and Data Confidentiality in Conjunction with ICML 2021 (FL-ICML'21)
+https://federated-learning.org/fl-icml-2021/
+
+
+2021 Google Workshop on Federated Learning and Analytics
+https://www.youtube.com/playlist?list=PLSIUOFhnxEiD9uihG5t9ABdPhSVqQ3HWA
+
+2020 Google Workshop on Federated Learning and Analytics
+https://www.youtube.com/playlist?list=PLSIUOFhnxEiCJS8q6SYdc0944xlV_6Jbu
+
+
+FEDERATED LEARNING WORKSHOP
+https://sites.google.com/view/federatedlearning-workshop/schedule?authuser=0
+
+Apple Privacy-Preserving Machine Learning Workshop 2022
+https://machinelearning.apple.com/updates/ppml-workshop-2022
+
+Federated Learning: Challenges, Methods, and Future Directions
+https://arxiv.org/abs/1908.07873
+
 Federated Learning: Recent Advances and New Challenges
 https://neurips.cc/virtual/2022/workshop/50002
 
@@ -19,8 +48,60 @@ https://www.youtube.com/channel/UCpAXM9I-v76xEPtevcCuA5g/videos
 Flower: A Friendly Federated Learning Framework
 https://www.youtube.com/watch?v=XEH9UCUlVO8&list=PLNG4feLHqCWkfu4GGq4xPrS5jve7WSqF7
 
+AI Distinguished Lecture Series
+https://www.anl.gov/cels/ai-distinguished-lecture-series
+
+Federated Learning Tutorial
+https://sites.google.com/view/fl-tutorial/
+
+Federated Learning Tutorial NeurIPS 2020
+https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view
+
+https://slideslive.com/38935813/federated-learning-tutorial
+
+
 Flower Summit 2022 | End-to-End Speech Recognition from Federated Acoustic Models
 https://www.youtube.com/watch?v=MRfyh0hcn9U
+
+Maziar Sanjabi
+https://sites.google.com/view/maziar
+
+Virginia Smith
+https://scholar.google.de/citations?hl=en&user=bldHpWIAAAAJ&view_op=list_works&sortby=pubdate
+https://www.cs.cmu.edu/~smithv/
+
+Fairness and Robustness in Federated Learning with Virginia Smith
+https://twimlai.com/podcast/twimlai/fairness-robustness-federated-learning-virginia-smith/
+
+Personalized Federated Learning with Gaussian Processes
+https://proceedings.neurips.cc/paper/2021/file/46d0671dd4117ea366031f87f3aa0093-Paper.pdf
+
+https://scholar.google.de/scholar?cites=10986123828571573534&as_sdt=2005&sciodt=0,5&hl=en
+
+Personalized Federated Learning via Variational Bayesian Inference
+https://proceedings.mlr.press/v162/zhang22o.html
+https://proceedings.mlr.press/v162/zhang22o/zhang22o.pdf
+
+Variational Federated Multi-Task Learning
+https://arxiv.org/pdf/1906.06268.pdf
+
+Federated multi-task learning
+https://scholar.google.de/scholar?q=Federated+multi-task+learning&hl=en&as_sdt=0&as_vis=1&oi=scholart
+
+Federated Expectation Maximization with heterogeneity mitigation and variance reduction
+https://proceedings.neurips.cc/paper/2021/file/f740c8d9c193f16d8a07d3a8a751d13f-Paper.pdf
+
+Federated Generalized Bayesian Learning via Distributed Stein Variational Gradient Descent (DSVGD)
+https://github.com/kclip/DSVGD
+
+Fedu: A unified framework for federated multi-task learning with laplacian regularization
+https://scholar.google.de/scholar?start=20&hl=en&as_sdt=2005&sciodt=0,5&cites=8004303786224069564&scipsc=
+
+https://scholar.google.de/scholar?cites=8004303786224069564&as_sdt=2005&sciodt=0,5&hl=en
+
+Federated Learning Framework Benchmark (UniFed)
+https://github.com/AI-secure/FLBenchmark-toolkit
+
 
 Federated Learning for Healthcare – Collaborative AI without Sharing Patient Data | Nicola Rieke
 https://www.youtube.com/watch?v=xr_eJp3ctzw
@@ -31,7 +112,66 @@ https://www.youtube.com/watch?v=I4gkIrsIAjc
 FLOW Seminar #65: Peter Richtárik (KAUST) Permutation Compressor for Faster Distributed Optimization
 https://www.youtube.com/watch?v=aMEj2pkGrcY
 
+
+
 ### New Ideas to follow
+
+
+Locally Differentially Private Bayesian Inference
+https://www.youtube.com/watch?v=hvq06NS377E&list=PLSIUOFhnxEiD9uihG5t9ABdPhSVqQ3HWA&index=25
+
+Antti Honkela
+https://scholar.google.com/citations?hl=en&user=XsyLs6AAAAAJ&view_op=list_works&sortby=pubdate
+
+Differentially Private Bayesian Inference for Generalized Linear Models
+http://proceedings.mlr.press/v139/kulkarni21a.html
+
+Locally Differentially Private Bayesian Inference
+https://arxiv.org/pdf/2110.14426.pdf
+
+Differentially Private Bayesian Linear Regression
+https://arxiv.org/pdf/1910.13153.pdf
+
+
+Differentially Private Bayesian Inference for Exponential Families
+https://arxiv.org/pdf/1809.02188.pdf
+
+
+https://omarfoq.github.io/publications.html
+
+Federated Multi-Task Learning under a Mixture of Distributions
+https://arxiv.org/pdf/2108.10252.pdf
+https://github.com/omarfoq/FedEM
+https://github.com/omarfoq/FedEM/blob/main/aggregator.py
+https://github.com/omarfoq/FedEM/blob/b6ed728aea3e4af3dd7b20c05c7d374a58d89ad2/aggregator.py#L11
+https://github.com/omarfoq/FedEM/blob/main/run_experiment.py
+
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise_distances.html
+
+Federated Multi-Task Learning under a Mixture of Distributions  - Poster 
+https://omarfoq.github.io/pdfs/poster_fl_icml_21.pdf
+
+Federated Multi-Task Learning under a Mixture of Distributions  - Slides
+https://omarfoq.github.io/pdfs/talk_fl_icml_21.pdf
+
+Personalized Federated Learning through Local Memorization
+https://arxiv.org/pdf/2111.09360.pdf
+https://github.com/omarfoq/knn-per
+https://arxiv.org/abs/2111.09360
+
+https://omarfoq.github.io/pdfs/talk_gdr_rsd_distributed_learning_22.pdf
+https://omarfoq.github.io/pdfs/poster_icml_22.pdf
+https://github.com/omarfoq/knn-per/blob/main/learners/learner.py
+
+https://github.com/omarfoq/knn-per/blob/main/learners/learner.py
+
+
+Clustered Federated Multi-Task Learning with Non-IID Data
+https://ieeexplore.ieee.org/document/9763764
+
+A New Look and Convergence Rate of Federated Multi-Task Learning with Laplacian Regularization
+https://arxiv.org/pdf/2102.07148.pdf
+
 
 FLOW Seminar #37: Maruan Al-Shedivat (CMU) New Perspective on FL & Data Efficiency of Meta-learning
 https://www.youtube.com/watch?v=YgDzkqo4Rfo&t=1487s
@@ -222,13 +362,15 @@ https://github.com/dylan-slack
 
 NeurIPS 2021: Reliable Post hoc Explanations: Modeling Uncertainty in Explainability
 https://crossminds.ai/video/neurips-2021-reliable-post-hoc-explanations-modeling-uncertainty-in-explainability-61d67f6141c1645262b81225/
+https://www.youtube.com/watch?v=mHlDNjpN0nw
 
 https://docs.google.com/presentation/d/e/2PACX-1vQOmtvXkneIriIwbWiV1OmH6zrGGCNPuSxLEbDM-5zZqfarTyTwPjUdHyewZhtJJg/pub?start=false&loop=false&delayms=3000&slide=id.gb41d78732d_0_9905
 
+Dylan Slack
+https://dylanslacks.website/
 
 NeurIPS 2021: Counterfactual Explanations Can Be Manipulated
 https://www.youtube.com/watch?v=q-7LB3I4PyU
-
 
 RELAX: Representation Learning Explainability
 https://arxiv.org/pdf/2112.10161.pdf
@@ -250,10 +392,8 @@ https://arxiv.org/pdf/2202.01875.pdf
 A review of uncertainty quantification in deep learning: Techniques, applications and challenges
 https://www.sciencedirect.com/science/article/pii/S1566253521001081
 
-
 MIT 6.S191: Uncertainty in Deep Learning
 https://www.youtube.com/watch?v=veYq6EWZyVc
-
 
 The Conference on Uncertainty in Artificial Intelligence (UAI)
 https://auai.org/uai2021/
@@ -275,6 +415,10 @@ https://www.mlmi.eng.cam.ac.uk/files/mphil_thesis_javier_antoran.pdf
 
 ## Type-II ML 
 
+
+Sparsity-aware Bayesian inference and its applications
+https://www.sciencedirect.com/science/article/abs/pii/S0169716122000414?via%3Dihub
+
 Implicit vs Unfolded Graph Neural Networks
 https://arxiv.org/pdf/2111.06592.pdf
 
@@ -284,6 +428,13 @@ https://www.danielppalomar.com/publications/
 Nonconvex Graph Learning: Sparsity, Heavy-tails, and Clustering
 https://palomar.home.ece.ust.hk/papers/2022/CardosoYingPalomar-ElsevierBook2022.pdf
 
+Nonconvex Sparse Graph Learning under Laplacian Constrained Graphical Model
+https://proceedings.neurips.cc/paper/2020/file/4ef42b32bccc9485b10b8183507e5d82-Paper.pdf
+
+https://github.com/mirca/sparseGraph
+
+Graphical Models in Heavy-Tailed Markets
+https://palomar.home.ece.ust.hk/papers/2021/CardosoYingPalomar-NeurIPS2021.pdf
 
 
 ## NLP
