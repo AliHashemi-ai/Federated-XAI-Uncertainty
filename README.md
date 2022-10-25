@@ -9,8 +9,31 @@ This is a repo to collect all useful materials covering federated learning, XAI,
 
 http://wikicfp.com/cfp/call?conference=federated%20learning
 
+
+Awesome Federated Machine Learning 
+https://github.com/innovation-cat/Awesome-Federated-Machine-Learning
+
+
+Awesome Federated Learning
+https://github.com/weimingwill/awesome-federated-learning
+
 Awesome-Federated-Learning 
 https://github.com/chaoyanghe/Awesome-Federated-Learning
+
+Awesome Federated Learning 
+https://github.com/poga/awesome-federated-learning
+
+Federated-Learning-on-Graph-and-Tabular-Data
+https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data
+
+FedLab: A Flexible Federated Learning Framework
+https://github.com/SMILELab-FL/FedLab
+
+NVIDIA Federated Learning Application Runtime Environment
+https://github.com/NVIDIA/NVFlare
+
+ Communication-Efficient Learning of Deep Networks from Decentralized Data.
+https://github.com/roxanneluo/Federated-Learning
 
 Federated-Learning (PyTorch)
 https://github.com/AshwinRJ/Federated-Learning-PyTorch
@@ -129,6 +152,86 @@ https://github.com/alibaba/FederatedScope
 Federated Learning: A Signal Processing Perspective
 https://arxiv.org/pdf/2103.17150.pdf
 
+Personalized Federated Learning via Variational Bayesian Inference
+https://icml.cc/media/icml-2022/Slides/17302.pdf
+https://arxiv.org/pdf/2206.07977.pdf
+
+
+Bayesian Framework for Gradient Leakage
+https://github.com/eth-sri/bayes-framework-leakage
+https://arxiv.org/pdf/2111.04706.pdf
+
+FEDBE: MAKING BAYESIAN MODEL ENSEMBLE APPLICABLE TO FEDERATED LEARNING
+https://arxiv.org/pdf/2009.01974.pdf
+https://github.com/hongyouc/fedbe
+
+
+Code for the NeurIPS 2021 paper: Differentially Private Federated Bayesian Optimization with Distributed Exploration.
+https://github.com/daizhongxiang/Differentially-Private-Federated-Bayesian-Optimization
+https://papers.nips.cc/paper/2021/file/4c27cea8526af8cfee3be5e183ac9605-Paper.pdf
+
+FedPop: A Bayesian Approach for Personalised Federated Learning
+https://arxiv.org/pdf/2206.03611.pdf
+https://neurips.cc/virtual/2022/papers.html?filter=titles&search=FedPop:+A+Bayesian+Approach+for+Personalised+Federated+Learning
+
+Exploiting Shared Representations for Personalized Federated Learning
+https://proceedings.mlr.press/v139/collins21a.html
+
+
+Federated-EM with heterogeneity mitigation and variance reduction
+https://openreview.net/forum?id=KSLNajziJeA
+ 
+QLSD: Quantised Langevin Stochastic Dynamics for Bayesian Federated Learning
+https://arxiv.org/pdf/2106.00797.pdf
+ 
+Federated Hyperparameter Tuning: Challenges,
+Baselines, and Connections to Weight-Sharing
+https://proceedings.neurips.cc/paper/2021/file/a0205b87490c847182672e8d371e9948-Paper.pdf
+
+What Do We Mean by Generalization in Federated Learning
+https://github.com/google-research/federated/tree/master/generalization
+
+Towards Federated Bayesian Network Structure Learning with
+Continuous Optimization
+https://arxiv.org/pdf/2110.09356.pdf
+
+Bayesian Nonparametric Federated Learning of Neural Networks
+https://arxiv.org/pdf/1905.12022.pdf
+
+Probabilistic Federated Neural Matching
+https://github.com/IBM/probabilistic-federated-neural-matching
+
+FATE (Federated AI Technology Enabler) 
+https://github.com/FederatedAI/FATE
+
+Bayesian Federated Learning via Predictive
+Distribution Distillation
+https://arxiv.org/pdf/2206.07562.pdf
+
+Federated Averaging as Expectation Maximization
+https://openreview.net/forum?id=eoQBpdMy81m
+
+An Expectation-Maximization Perspective on
+Federated Learning
+https://arxiv.org/pdf/2111.10192.pdf
+
+Federated Bayesian Neural Regression: A Scalable
+Global Federated Gaussian Process
+https://arxiv.org/pdf/2206.06357.pdf
+
+Bayesian SignSGD Optimizer for Federated Learning
+https://neurips2021workshopfl.github.io/NFFL-2021/papers/2021/Ferreira2021.pdf
+
+How to Combine Variational Bayesian Networks in Federated Learning
+https://arxiv.org/pdf/2206.10897.pdf
+
+ActPerFL: Active personalized federated learning
+https://www.amazon.science/publications/actperfl-active-personalized-federated-learning
+https://assets.amazon.science/6c/67/f0f6209e4a0eb2c54aabb2fce1bc/actperfl-active-personalized-federated-learning.pdf
+
+
+Self-Aware Personalized Federated Learning
+https://arxiv.org/pdf/2204.08069.pdf
 
 Federated Learning from Pre-Trained Models: A Contrastive Learning Approach
 https://openreview.net/pdf?id=j6-_a4VL6h
@@ -187,6 +290,10 @@ https://uwspace.uwaterloo.ca/bitstream/handle/10012/18555/Yu_Haolin.pdf?sequence
 Functional Ensemble Distillation
 https://arxiv.org/pdf/2206.02183.pdf
 
+Motley: Benchmarking Heterogeneity and Personalization in
+Federated Learning
+https://arxiv.org/pdf/2206.09262.pdf
+https://github.com/google-research/federated/tree/master/personalization_benchmark
 
  
 https://idanachituve.github.io/
@@ -202,6 +309,18 @@ https://arxiv.org/abs/2106.15482
 
 Personalized Federated Learning With Gaussian Processes
 https://nips.cc/virtual/2021/poster/27410
+
+Bayesian Federated Learning via Predictive
+Distribution Distillation
+https://arxiv.org/pdf/2206.07562.pdf
+
+Federated Mixture of Experts
+https://arxiv.org/pdf/2107.06724.pdf
+
+
+Quantization Robust Federated Learning for Efficient
+Inference on Heterogeneous Devices
+https://arxiv.org/pdf/2206.10844.pdf
 
 Federated Multi-Task Learning under a Mixture of Distributions
 https://nips.cc/virtual/2021/poster/26409
@@ -237,6 +356,19 @@ https://www.youtube.com/watch?v=aMEj2pkGrcY
 
 
 ### New Ideas to follow
+
+
+FEDERATED LEARNING VIA POSTERIOR AVERAGING:
+A NEW PERSPECTIVE AND PRACTICAL ALGORITHMS
+https://arxiv.org/pdf/2010.05273.pdf
+https://github.com/alshedivat/fedpa
+
+https://colab.research.google.com/github/alshedivat/fedpa/blob/master/fedpa_playground.ipynb#scrollTo=gnRdy42K5EYO
+
+
+Probabilistic Predictions with Federated Learning
+https://pdfs.semanticscholar.org/a76a/bc879da38b4c3acbb6d933fd547cd3c9df15.pdf
+
 
 
 Locally Differentially Private Bayesian Inference
@@ -306,7 +438,6 @@ https://proceedings.neurips.cc/paper/2020/file/e32cc80bf07915058ce90722ee17bb71-
 
 A New Look and Convergence Rate of Federated Multi-Task Learning with Laplacian Regularization
 https://arxiv.org/pdf/2102.07148.pdf
-
 
 FLOW Seminar #37: Maruan Al-Shedivat (CMU) New Perspective on FL & Data Efficiency of Meta-learning
 https://www.youtube.com/watch?v=YgDzkqo4Rfo&t=1487s
@@ -522,7 +653,16 @@ https://arxiv.org/pdf/2108.06907.pdf
 Rethinking Explainability as a Dialogue: A Practitioner’s Perspective
 https://arxiv.org/pdf/2202.01875.pdf
 
+Regularizing Black-box Models for Improved
+Interpretability
+https://proceedings.neurips.cc/paper/2020/file/770f8e448d07586afbf77bb59f698587-Paper.pdf
+
 ## Uncertainty 
+
+
+Nonparametric Approach to Uncertainty Quantification for Deterministic Neural Networks
+https://openreview.net/forum?id=DIwCTeU0DIg
+
 
 A review of uncertainty quantification in deep learning: Techniques, applications and challenges
 https://www.sciencedirect.com/science/article/pii/S1566253521001081
