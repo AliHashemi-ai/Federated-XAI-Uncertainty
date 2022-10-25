@@ -7,14 +7,48 @@ This is a repo to collect all useful materials covering federated learning, XAI,
 
 ## Federated Learning 
 
+Federated Learning: Recent Advances and New Challenges
+https://neurips.cc/virtual/2022/workshop/50002
 
+New Frontiers in Federated Learning: Privacy, Fairness, Robustness, Personalization and Data Ownership
+https://neurips.cc/virtual/2021/workshop/21829
 
+Federated Learning One World Seminar
+https://www.youtube.com/channel/UCpAXM9I-v76xEPtevcCuA5g/videos
+
+Flower: A Friendly Federated Learning Framework
+https://www.youtube.com/watch?v=XEH9UCUlVO8&list=PLNG4feLHqCWkfu4GGq4xPrS5jve7WSqF7
+
+Flower Summit 2022 | End-to-End Speech Recognition from Federated Acoustic Models
+https://www.youtube.com/watch?v=MRfyh0hcn9U
+
+Federated Learning for Healthcare – Collaborative AI without Sharing Patient Data | Nicola Rieke
+https://www.youtube.com/watch?v=xr_eJp3ctzw
+
+Federated Learning with Peter Kairouz
+https://www.youtube.com/watch?v=I4gkIrsIAjc
+
+FLOW Seminar #65: Peter Richtárik (KAUST) Permutation Compressor for Faster Distributed Optimization
+https://www.youtube.com/watch?v=aMEj2pkGrcY
+
+### New Ideas to follow
+
+FLOW Seminar #37: Maruan Al-Shedivat (CMU) New Perspective on FL & Data Efficiency of Meta-learning
+https://www.youtube.com/watch?v=YgDzkqo4Rfo&t=1487s
+
+Approaches to Uncertainty Quantification in Federated Deep Learning
+https://pdfl.iais.fraunhofer.de/preprints/PDFL_2.pdf
+
+Federated Uncertainty-Aware Learning for Distributed Hospital EHR Data
+https://arxiv.org/abs/1910.12191
 
 
 ## XAI 
 
 NeurIPS 2020 Tutorial on Explaining ML Predictions: State-of-the-art, Challenges, and Opportunities
 https://www.youtube.com/watch?v=EbpU4p_0hes
+
+https://explainml-tutorial.github.io/neurips20
 
 Explaining Machine Learning Predictions
 State-of-the-art, Challenges, and Opportunities
@@ -28,9 +62,30 @@ https://scholar.google.com/citations?hl=en&user=oWid5PQAAAAJ&view_op=list_works&
 Sameer Singh
 https://scholar.google.de/citations?hl=en&user=-hGZC54AAAAJ&view_op=list_works&sortby=pubdate
 
-
 EMNLP 2020 Tutorial on Interpreting Predictions of NLP Models
 https://www.youtube.com/watch?v=gprIzglUW1s
+
+Explainable AI - XAI
+https://www-sop.inria.fr/members/Freddy.Lecue/presentation/aaai_2022_xai_tutorial.pdf
+
+ExMatchina
+https://github.com/flecue/xai-aaai2022/tree/main/XAI_EXAMPLE_exMatchina_ALL
+
+AAAI-22 Tutorial Forum
+https://aaai.org/Conferences/AAAI-22/aaai22tutorials/
+
+AAAI 2022 Tutorial Explainable AI:
+On Explainable AI: From Theory to Motivation, Industrial Applications, XAI Coding & Engineering Practices
+https://xaitutorial2022.github.io/
+https://www-sop.inria.fr/members/Freddy.Lecue/presentation/aaai_2022_xai_tutorial.pdf
+https://github.com/flecue/xai-aaai2022
+
+AAAI22 - On Explainable AI - Tools - XAI Coding And Engineering Practices
+https://www.youtube.com/watch?v=07hifxAsXjc
+
+AAAI 2021 Tutorial Explainable AI:
+On Explainable AI: From Theory to Motivation, Industrial Applications and Coding Practices
+https://xaitutorial2021.github.io/
 
 Explainable AI: Interpreting, Explaining and Visualizing Deep Learning
 https://link.springer.com/content/pdf/10.1007/978-3-030-28954-6.pdf
@@ -53,6 +108,13 @@ https://link.springer.com/book/10.1007/978-3-031-04083-2
 
 Explaining the Predictions of Unsupervised Learning Models
 https://link.springer.com/chapter/10.1007/978-3-031-04083-2_7
+
+iNNvestigate neural networks!
+https://github.com/albermax/innvestigate
+
+Scrutinizing XAI using linear ground-truth data with suppressor variables
+https://arxiv.org/pdf/2111.07473.pdf
+
 
 A Survey on Understanding, Visualizations, and Explanation of Deep Neural Networks
 https://arxiv.org/pdf/2102.01792.pdf
@@ -86,11 +148,17 @@ https://arxiv.org/abs/2202.06861
 NoiseGrad — Enhancing Explanations by Introducing Stochasticity to Model Weights
 https://ojs.aaai.org/index.php/AAAI/article/view/20561
 
+https://github.com/understandable-machine-intelligence-lab
+https://github.com/understandable-machine-intelligence-lab/Quantus/blob/main/tutorials/Tutorial_ImageNet_Quantification_with_Quantus.ipynb
+
 Toward Explainable AI for Regression Models
 https://arxiv.org/abs/2112.11407
 
 Toward Explainable Artificial Intelligence for Regression Models: A methodological perspective
 https://ieeexplore.ieee.org/abstract/document/9810062
+
+Towards robust explanations for deep neural networks
+https://www.sciencedirect.com/science/article/pii/S0031320321003769
 
 Higher-Order Explanations of Graph Neural Networks via Relevant Walks
 https://ieeexplore.ieee.org/abstract/document/9547794
@@ -99,14 +167,12 @@ https://git.tu-berlin.de/thomas_schnake/paper_gnn_lrp
 Evaluating Explainability for Graph Neural Networks
 https://arxiv.org/pdf/2208.09339.pdf
 
-
 Explaining Deep Learning Models -- A Bayesian Non-parametric Approach
 https://proceedings.neurips.cc/paper/2018/file/4b4edc2630fe75800ddc29a7b4070add-Paper.pdf
 https://arxiv.org/abs/1811.03422
 
 Pitfalls of Local Explainability in Complex Black-Box Models
 http://ceur-ws.org/Vol-3074/paper13.pdf
-
 
 Diffeomorphic Counterfactuals with Generative Models
 https://arxiv.org/pdf/2206.05075.pdf
@@ -120,7 +186,17 @@ https://scholar.google.com/citations?hl=en&user=UnrY-40AAAAJ&view_op=list_works&
 The Optimal Noise in Noise-Contrastive Learning Is Not What You Think
 https://openreview.net/pdf?id=SEef8wIj5lc
 
+
+
 ### New ideas to follow
+
+From clustering to cluster explanations via neural networks
+https://scholar.google.com/scholar?hl=en&start=20&as_sdt=2005&sciodt=0,5&cites=13144110254329725710&scipsc=
+
+Bayesian autoencoders with uncertainty quantification: Towards trustworthy anomaly detection
+https://arxiv.org/abs/2202.12653
+
+
 
 BayLIME: Bayesian local interpretable model-agnostic explanations
 https://proceedings.mlr.press/v161/zhao21a/zhao21a.pdf
@@ -157,6 +233,12 @@ https://www.youtube.com/watch?v=q-7LB3I4PyU
 RELAX: Representation Learning Explainability
 https://arxiv.org/pdf/2112.10161.pdf
 
+solo-learn: A library of self-supervised methods for unsupervised visual representation learning
+https://github.com/vturrisi/solo-learn
+
+Self-Supervised Learning: Theory and Practice
+https://neurips.cc/virtual/2022/workshop/49991
+
 Select Wisely and Explain: Active Learning and Probabilistic Local Post-hoc Explainability
 https://arxiv.org/pdf/2108.06907.pdf
 
@@ -192,10 +274,28 @@ Understanding Uncertainty in Bayesian Neural Networks
 https://www.mlmi.eng.cam.ac.uk/files/mphil_thesis_javier_antoran.pdf
 
 ## Type-II ML 
- 
- 
- 
 
+Implicit vs Unfolded Graph Neural Networks
+https://arxiv.org/pdf/2111.06592.pdf
+
+Daniel P. Palomar
+https://www.danielppalomar.com/publications/
+
+Nonconvex Graph Learning: Sparsity, Heavy-tails, and Clustering
+https://palomar.home.ece.ust.hk/papers/2022/CardosoYingPalomar-ElsevierBook2022.pdf
+
+
+
+## NLP
+
+TTS: Text-to-Speech for all.
+https://github.com/mozilla/TTS
+
+Amazon Text-to-Speech group's research at ICASSP 2022
+https://www.amazon.science/blog/amazon-text-to-speech-groups-research-at-icassp-2022
+ 
+Text-To-Speech Synthesis on LJSpeech
+https://paperswithcode.com/sota/text-to-speech-synthesis-on-ljspeech
 
 
 
