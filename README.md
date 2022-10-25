@@ -9,6 +9,16 @@ This is a repo to collect all useful materials covering federated learning, XAI,
 
 http://wikicfp.com/cfp/call?conference=federated%20learning
 
+Awesome-Federated-Learning 
+https://github.com/chaoyanghe/Awesome-Federated-Learning
+
+Federated-Learning (PyTorch)
+https://github.com/AshwinRJ/Federated-Learning-PyTorch
+
+Federated Research
+https://github.com/google-research/federated
+
+
 International Workshop on Federated Learning: Recent Advances and New Challenges
 in Conjunction with NeurIPS 2022 (FL-NeurIPS'22)
 https://federated-learning.org/fl-neurips-2022/
@@ -26,6 +36,11 @@ https://www.youtube.com/playlist?list=PLSIUOFhnxEiD9uihG5t9ABdPhSVqQ3HWA
 2020 Google Workshop on Federated Learning and Analytics
 https://www.youtube.com/playlist?list=PLSIUOFhnxEiCJS8q6SYdc0944xlV_6Jbu
 
+TMLR: Recipes for Better Use of Local Work in Federated Learning
+https://www.youtube.com/watch?v=jGVbs3Jl1K0
+
+Federated Optimization in Heterogeneous Networks
+https://www.youtube.com/watch?v=jGVbs3Jl1K0
 
 FEDERATED LEARNING WORKSHOP
 https://sites.google.com/view/federatedlearning-workshop/schedule?authuser=0
@@ -41,6 +56,7 @@ https://neurips.cc/virtual/2022/workshop/50002
 
 New Frontiers in Federated Learning: Privacy, Fairness, Robustness, Personalization and Data Ownership
 https://neurips.cc/virtual/2021/workshop/21829
+
 
 Federated Learning One World Seminar
 https://www.youtube.com/channel/UCpAXM9I-v76xEPtevcCuA5g/videos
@@ -59,6 +75,10 @@ https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view
 
 https://slideslive.com/38935813/federated-learning-tutorial
 
+Personalized Federated Learning with Moreau Envelopes
+https://proceedings.neurips.cc/paper/2020/hash/f4f1f13c8289ac1b1ee0ff176b56fc60-Abstract.html
+https://arxiv.org/pdf/2006.08848.pdf
+https://github.com/CharlieDinh/pFedMe
 
 Flower Summit 2022 | End-to-End Speech Recognition from Federated Acoustic Models
 https://www.youtube.com/watch?v=MRfyh0hcn9U
@@ -66,12 +86,28 @@ https://www.youtube.com/watch?v=MRfyh0hcn9U
 Maziar Sanjabi
 https://sites.google.com/view/maziar
 
+https://scholar.google.de/citations?user=bc_N2-oAAAAJ&hl=en&oi=sra
+
 Virginia Smith
 https://scholar.google.de/citations?hl=en&user=bldHpWIAAAAJ&view_op=list_works&sortby=pubdate
 https://www.cs.cmu.edu/~smithv/
 
 Fairness and Robustness in Federated Learning with Virginia Smith
 https://twimlai.com/podcast/twimlai/fairness-robustness-federated-learning-virginia-smith/
+
+https://www.youtube.com/results?search_query=federated+Multitask+Learning++Virginia+Smith
+
+Stanford MLSys Seminar Episode 3: Virginia Smith
+https://www.youtube.com/watch?v=laCyJICLyWg
+
+CMU - It's Happening Here - Virginia Smith
+https://www.youtube.com/watch?v=rrx1Tq-ZARI
+
+Virginia Smith - A General Framework for Communication-Efficient Distributed... - MLconf SF 2016
+https://www.youtube.com/watch?v=vuGiNJoq8NQ
+
+Flower Summit 2021 | Keynote 2: Heterogeneity Meets Communication- Efficiency
+https://www.youtube.com/watch?v=OF_WtItBErA
 
 Personalized Federated Learning with Gaussian Processes
 https://proceedings.neurips.cc/paper/2021/file/46d0671dd4117ea366031f87f3aa0093-Paper.pdf
@@ -91,8 +127,34 @@ https://scholar.google.de/scholar?q=Federated+multi-task+learning&hl=en&as_sdt=0
 Federated Expectation Maximization with heterogeneity mitigation and variance reduction
 https://proceedings.neurips.cc/paper/2021/file/f740c8d9c193f16d8a07d3a8a751d13f-Paper.pdf
 
+FEDBE: MAKING BAYESIAN MODEL ENSEMBLE APPLICABLE TO FEDERATED LEARNING
+https://arxiv.org/pdf/2009.01974.pdf
+
+Federated Bayesian optimization via Thompson sampling
+https://proceedings.neurips.cc/paper/2020/file/6dfe08eda761bd321f8a9b239f6f4ec3-Paper.pdf
+https://scholar.google.de/scholar?cites=16578927726167332521&as_sdt=2005&sciodt=0,5&hl=en
+
+A Benchmark for Federated Settings
+https://leaf.cmu.edu/
+https://github.com/TalwalkarLab/leaf/tree/master/models
+
 Federated Generalized Bayesian Learning via Distributed Stein Variational Gradient Descent (DSVGD)
 https://github.com/kclip/DSVGD
+
+Federated Bayesian Neural Regression: A Scalable Global Federated Gaussian Process
+https://arxiv.org/pdf/2206.06357.pdf
+
+SPARSE FEDERATED LEARNING WITH HIERARCHICAL PERSONALIZED MODELS
+https://arxiv.org/pdf/2203.13517.pdf
+
+Federated Graph Neural Networks: Overview, Techniques and Challenges
+https://arxiv.org/pdf/2202.07256.pdf
+
+Bayesian Nonparametric Federated Learning of Neural Networks
+http://proceedings.mlr.press/v97/yurochkin19a/yurochkin19a.pdf
+
+Personalized Federated Learning with Theoretical Guarantees: A Model-Agnostic Meta-Learning Approach
+https://proceedings.neurips.cc/paper/2020/file/24389bfe4fe2eba8bf9aa9203a44cdad-Paper.pdf
 
 Fedu: A unified framework for federated multi-task learning with laplacian regularization
 https://scholar.google.de/scholar?start=20&hl=en&as_sdt=2005&sciodt=0,5&cites=8004303786224069564&scipsc=
@@ -140,6 +202,8 @@ https://arxiv.org/pdf/1809.02188.pdf
 https://omarfoq.github.io/publications.html
 
 Federated Multi-Task Learning under a Mixture of Distributions
+https://openreview.net/forum?id=YCqx6zhEzRp
+https://www.youtube.com/watch?v=7rngrlIWpC8
 https://arxiv.org/pdf/2108.10252.pdf
 https://github.com/omarfoq/FedEM
 https://github.com/omarfoq/FedEM/blob/main/aggregator.py
@@ -165,9 +229,20 @@ https://github.com/omarfoq/knn-per/blob/main/learners/learner.py
 
 https://github.com/omarfoq/knn-per/blob/main/learners/learner.py
 
+http://researchers.lille.inria.fr/abellet/talks.html
+http://researchers.lille.inria.fr/abellet/talks/federated_learning_introduction.pdf
 
 Clustered Federated Multi-Task Learning with Non-IID Data
 https://ieeexplore.ieee.org/document/9763764
+
+On the Convergence of Local Descent Methods in Federated Learning
+https://arxiv.org/pdf/1910.14425.pdf
+
+FEDERATED OPTIMIZATION IN HETEROGENEOUS NETWORKS
+https://proceedings.mlsys.org/paper/2020/file/38af86134b65d0f10fe33d30dd76442e-Paper.pdf
+
+An Efficient Framework for Clustered Federated Learning
+https://proceedings.neurips.cc/paper/2020/file/e32cc80bf07915058ce90722ee17bb71-Paper.pdf
 
 A New Look and Convergence Rate of Federated Multi-Task Learning with Laplacian Regularization
 https://arxiv.org/pdf/2102.07148.pdf
