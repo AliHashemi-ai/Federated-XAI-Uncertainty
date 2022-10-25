@@ -18,7 +18,6 @@ https://github.com/AshwinRJ/Federated-Learning-PyTorch
 Federated Research
 https://github.com/google-research/federated
 
-
 International Workshop on Federated Learning: Recent Advances and New Challenges
 in Conjunction with NeurIPS 2022 (FL-NeurIPS'22)
 https://federated-learning.org/fl-neurips-2022/
@@ -118,6 +117,22 @@ Personalized Federated Learning via Variational Bayesian Inference
 https://proceedings.mlr.press/v162/zhang22o.html
 https://proceedings.mlr.press/v162/zhang22o/zhang22o.pdf
 
+NeurIPS 2022 Federated Learning Papers 
+https://neurips.cc/virtual/2022/papers.html?filter=titles&search=federated
+
+pFL-Bench: A Comprehensive Benchmark for Personalized Federated Learning
+https://arxiv.org/abs/2206.03655
+
+FederatedScop
+https://github.com/alibaba/FederatedScope
+
+Federated Learning: A Signal Processing Perspective
+https://arxiv.org/pdf/2103.17150.pdf
+
+
+Federated Learning from Pre-Trained Models: A Contrastive Learning Approach
+https://openreview.net/pdf?id=j6-_a4VL6h
+
 Variational Federated Multi-Task Learning
 https://arxiv.org/pdf/1906.06268.pdf
 
@@ -144,6 +159,8 @@ https://github.com/kclip/DSVGD
 Federated Bayesian Neural Regression: A Scalable Global Federated Gaussian Process
 https://arxiv.org/pdf/2206.06357.pdf
 
+https://github.com/IdanAchituve/pFedGP/blob/main/experiments/heterogeneous_class_dist/trainer.py
+
 SPARSE FEDERATED LEARNING WITH HIERARCHICAL PERSONALIZED MODELS
 https://arxiv.org/pdf/2203.13517.pdf
 
@@ -164,6 +181,49 @@ https://scholar.google.de/scholar?cites=8004303786224069564&as_sdt=2005&sciodt=0
 Federated Learning Framework Benchmark (UniFed)
 https://github.com/AI-secure/FLBenchmark-toolkit
 
+Learn Privacy-friendly Global Gaussian Processes in Federated Learning
+https://uwspace.uwaterloo.ca/bitstream/handle/10012/18555/Yu_Haolin.pdf?sequence=3
+
+Functional Ensemble Distillation
+https://arxiv.org/pdf/2206.02183.pdf
+
+
+ 
+https://idanachituve.github.io/
+
+Federated Graph Classification over Non-IID Graphs
+https://nips.cc/virtual/2021/poster/27233
+
+Federated Reconstruction: Partially Local Federated Learning
+https://nips.cc/virtual/2021/poster/28043
+
+Personalized Federated Learning with Gaussian Processes
+https://arxiv.org/abs/2106.15482
+
+Personalized Federated Learning With Gaussian Processes
+https://nips.cc/virtual/2021/poster/27410
+
+Federated Multi-Task Learning under a Mixture of Distributions
+https://nips.cc/virtual/2021/poster/26409
+
+Differentially Private Federated Bayesian Optimization with Distributed Exploration
+https://openreview.net/pdf?id=OdsuC3H1WQ3
+https://github.com/daizhongxiang/Differentially-Private-Federated-Bayesian-Optimization
+https://openreview.net/forum?id=OdsuC3H1WQ3
+https://nips.cc/virtual/2021/poster/26102
+
+ 
+NeurIPS 2021 
+https://nips.cc/virtual/2021/papers.html?filter=titles&search=federated
+ 
+Federated-EM with heterogeneity mitigation and variance reduction
+https://nips.cc/virtual/2021/poster/27431
+
+Federated Bayesian Neural Regression: A Scalable Global Federated Gaussian Process
+https://arxiv.org/pdf/2206.06357.pdf
+
+Personalized Federated Learning via Variational Bayesian Inference
+https://proceedings.mlr.press/v162/zhang22o/zhang22o.pdf
 
 Federated Learning for Healthcare – Collaborative AI without Sharing Patient Data | Nicola Rieke
 https://www.youtube.com/watch?v=xr_eJp3ctzw
