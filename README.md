@@ -32,7 +32,7 @@ https://github.com/SMILELab-FL/FedLab
 NVIDIA Federated Learning Application Runtime Environment
 https://github.com/NVIDIA/NVFlare
 
- Communication-Efficient Learning of Deep Networks from Decentralized Data.
+Communication-Efficient Learning of Deep Networks from Decentralized Data.
 https://github.com/roxanneluo/Federated-Learning
 
 Federated-Learning (PyTorch)
@@ -83,8 +83,27 @@ https://neurips.cc/virtual/2021/workshop/21829
 Federated Learning One World Seminar
 https://www.youtube.com/channel/UCpAXM9I-v76xEPtevcCuA5g/videos
 
+https://sites.google.com/view/one-world-seminar-series-flow/future-talks?authuser=0
+
+https://sites.google.com/view/one-world-seminar-series-flow/archive/2021?authuser=0#h.37xpu4phszjo
+
+https://maruan.alshedivat.com/publications/
+
+A Field Guide to Federated Optimization
+https://arxiv.org/pdf/2107.06917.pdf
+
+An Inferential Perspective on Federated Learning
+https://blog.ml.cmu.edu/2021/02/19/an-inferential-perspective-on-federated-learning/
+
+
 Flower: A Friendly Federated Learning Framework
 https://www.youtube.com/watch?v=XEH9UCUlVO8&list=PLNG4feLHqCWkfu4GGq4xPrS5jve7WSqF7
+
+Adaptive & Multitask Learning
+https://www.amtl-workshop.org/accepted-papers
+
+
+https://pdfl.iais.fraunhofer.de/
 
 AI Distinguished Lecture Series
 https://www.anl.gov/cels/ai-distinguished-lecture-series
@@ -225,10 +244,54 @@ https://neurips2021workshopfl.github.io/NFFL-2021/papers/2021/Ferreira2021.pdf
 How to Combine Variational Bayesian Networks in Federated Learning
 https://arxiv.org/pdf/2206.10897.pdf
 
+The Distributed Discrete Gaussian Mechanism
+for Federated Learning with Secure Aggregation
+http://proceedings.mlr.press/v139/kairouz21a/kairouz21a.pdf
+
 ActPerFL: Active personalized federated learning
 https://www.amazon.science/publications/actperfl-active-personalized-federated-learning
 https://assets.amazon.science/6c/67/f0f6209e4a0eb2c54aabb2fce1bc/actperfl-active-personalized-federated-learning.pdf
 
+Federated Composite Optimization
+http://proceedings.mlr.press/v139/yuan21d/yuan21d.pdf
+
+
+On Convergence of Federated Averaging Langevin Dynamics
+https://arxiv.org/pdf/2112.05120.pdf
+
+
+FeO2: Federated Learning with Opt-Out Differential Privacy
+https://arxiv.org/pdf/2110.15252.pdf
+
+Peer-to-Peer Variational Federated Learning over
+Arbitrary Graphs
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9825726&casa_token=vJa-86ve-b8AAAAA:IDeAgbjD_UrOg-7FEjqxH9uEyYRUEbDm55A3XIHpm1RXkA9y_VSxuSClC5f-Kj16cOInEMa7U0Q&tag=1
+
+Sharp Bounds for Federated Averaging (Local SGD)
+and Continuous Perspective
+https://proceedings.mlr.press/v151/glasgow22a/glasgow22a.pdf
+
+Multi-Level Branched Regularization for Federated Learning
+https://proceedings.mlr.press/v162/kim22a/kim22a.pdf
+
+Google Talks Field Trip
+https://simons.berkeley.edu/events/field-trip-google
+
+Data Privacy: Foundations and Applications Reunion
+https://simons.berkeley.edu/workshops/schedule/14129
+
+The Power of Adaptivity in Representation Learning: From Meta-Learning to Federated Learning
+https://simons.berkeley.edu/talks/power-adaptivity-representation-learning-meta-learning-federated-learning
+
+Structure of Constraints in Sequential Decision-Making
+https://simons.berkeley.edu/workshops/schedule/16932
+
+
+Data Privacy: Foundations and Applications
+https://simons.berkeley.edu/programs/privacy2019
+
+Protection Against Reconstruction and Its Applications in Private Federated Learning
+https://simons.berkeley.edu/talks/tba-39
 
 Self-Aware Personalized Federated Learning
 https://arxiv.org/pdf/2204.08069.pdf
@@ -450,6 +513,14 @@ https://arxiv.org/abs/1910.12191
 
 
 ## XAI 
+
+Explainable AI for Deep Networks Basics and Extensions
+http://www.interpretable-ml.org/ecml2020tutorial/
+http://www.interpretable-ml.org/ecml2020tutorial/ecml2020-xai-tutorial-1.pdf
+http://www.interpretable-ml.org/ecml2020tutorial/ecml2020-xai-tutorial-2.pdf
+http://www.interpretable-ml.org/ecml2020tutorial/ecml2020-xai-tutorial-3.pdf
+
+
 
 NeurIPS 2020 Tutorial on Explaining ML Predictions: State-of-the-art, Challenges, and Opportunities
 https://www.youtube.com/watch?v=EbpU4p_0hes
