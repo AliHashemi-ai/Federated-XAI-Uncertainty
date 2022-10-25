@@ -45,6 +45,10 @@ https://arxiv.org/pdf/2006.09000.pdf
 Quantus: An Explainable AI Toolkit for Responsible Evaluation of Neural Network Explanations
 https://arxiv.org/abs/2202.06861
 
+NoiseGrad — Enhancing Explanations by Introducing Stochasticity to Model Weights
+https://ojs.aaai.org/index.php/AAAI/article/view/20561
+
+
 Toward Explainable AI for Regression Models
 https://arxiv.org/abs/2112.11407
 
@@ -65,22 +69,40 @@ https://arxiv.org/pdf/2206.05075.pdf
 Wojciech Samek
 https://scholar.google.com/citations?hl=en&user=7aQwO08AAAAJ&view_op=list_works&sortby=pubdate
 
-
+Aapo Hyvärinen
 https://scholar.google.com/citations?hl=en&user=UnrY-40AAAAJ&view_op=list_works&sortby=pubdate
 
+The Optimal Noise in Noise-Contrastive Learning Is Not What You Think
+https://openreview.net/pdf?id=SEef8wIj5lc
 
 ### New ideas to follow
 
 BayLIME: Bayesian local interpretable model-agnostic explanations
 https://proceedings.mlr.press/v161/zhao21a/zhao21a.pdf
+https://arxiv.org/pdf/2012.03058.pdf
 https://proceedings.mlr.press/v161/zhao21a.html?ref=https://githubhelp.com
+https://github.com/scikit-learn/scikit-learn/blob/36958fb24/sklearn/linear_model/_bayes.py#L24
 https://github.com/x-y-zhao/BayLime/blob/master/BayLIME_tutorial_images.ipynb
 https://www.youtube.com/watch?v=-ftJFNVxvOQ
 https://proceedings.mlr.press/v161/zhao21a/zhao21a-supp.pdf
  
+How Much Should I Trust You? Modeling Uncertainty of Black Box Explanations
+https://www.researchgate.net/publication/343626253_How_Much_Should_I_Trust_You_Modeling_Uncertainty_of_Black_Box_Explanations
+https://arxiv.org/pdf/2008.05030v1.pdf
+
 
 
 ## Uncertainty 
+
+MIT 6.S191: Uncertainty in Deep Learning
+https://www.youtube.com/watch?v=veYq6EWZyVc
+
+
+The Conference on Uncertainty in Artificial Intelligence (UAI)
+https://auai.org/uai2021/
+
+UAI 2022 - Program
+https://www.auai.org/uai2022/program
 
 Explanation Uncertainty with Decision Boundary Awareness
 https://arxiv.org/pdf/2210.02419.pdf
