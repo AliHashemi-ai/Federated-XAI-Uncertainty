@@ -2,6 +2,22 @@
 This is a repo to collect all useful materials covering federated learning, XAI, and uncertainty estimation in machine learning and deep learning. 
 
 
+# Main materials
+
+From Clustering to Cluster Explanations via Neural Networks
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9817459
+
+Clustered Federated Learning: Model-Agnostic Distributed Multitask Optimization Under Privacy Constraints
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9174890
+
+Robust and Communication-Efficient Federated Learning From Non-i.i.d. Data
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8889996
+
+
+https://github.com/felisat/fl_distill
+https://github.com/felisat/federated-learning
+https://github.com/felisat/clustered-federated-learning/blob/master/clustered_federated_learning.ipynb
+
 # Resources 
 
 
