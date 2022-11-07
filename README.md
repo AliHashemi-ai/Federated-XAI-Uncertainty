@@ -443,6 +443,8 @@ https://arxiv.org/pdf/2010.05273.pdf
 https://github.com/alshedivat/fedpa
 
 https://colab.research.google.com/github/alshedivat/fedpa/blob/master/fedpa_playground.ipynb#scrollTo=gnRdy42K5EYO
+https://blog.ml.cmu.edu/2021/02/19/an-inferential-perspective-on-federated-learning/
+
 
 
 Probabilistic Predictions with Federated Learning
