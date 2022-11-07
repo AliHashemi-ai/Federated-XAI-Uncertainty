@@ -439,12 +439,14 @@ https://www.youtube.com/watch?v=aMEj2pkGrcY
 
 FEDERATED LEARNING VIA POSTERIOR AVERAGING:
 A NEW PERSPECTIVE AND PRACTICAL ALGORITHMS
+https://maruan.alshedivat.com/
 https://arxiv.org/pdf/2010.05273.pdf
 https://github.com/alshedivat/fedpa
 
 https://colab.research.google.com/github/alshedivat/fedpa/blob/master/fedpa_playground.ipynb#scrollTo=gnRdy42K5EYO
 https://blog.ml.cmu.edu/2021/02/19/an-inferential-perspective-on-federated-learning/
-
+FLOW Seminar #37: Maruan Al-Shedivat (CMU) New Perspective on FL & Data Efficiency of Meta-learning
+https://www.youtube.com/watch?v=YgDzkqo4Rfo&t=1487s
 
 
 Probabilistic Predictions with Federated Learning
@@ -519,9 +521,6 @@ https://proceedings.neurips.cc/paper/2020/file/e32cc80bf07915058ce90722ee17bb71-
 
 A New Look and Convergence Rate of Federated Multi-Task Learning with Laplacian Regularization
 https://arxiv.org/pdf/2102.07148.pdf
-
-FLOW Seminar #37: Maruan Al-Shedivat (CMU) New Perspective on FL & Data Efficiency of Meta-learning
-https://www.youtube.com/watch?v=YgDzkqo4Rfo&t=1487s
 
 Approaches to Uncertainty Quantification in Federated Deep Learning
 https://pdfl.iais.fraunhofer.de/preprints/PDFL_2.pdf
