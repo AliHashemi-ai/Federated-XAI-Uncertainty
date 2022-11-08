@@ -448,11 +448,8 @@ https://blog.ml.cmu.edu/2021/02/19/an-inferential-perspective-on-federated-learn
 FLOW Seminar #37: Maruan Al-Shedivat (CMU) New Perspective on FL & Data Efficiency of Meta-learning
 https://www.youtube.com/watch?v=YgDzkqo4Rfo&t=1487s
 
-
 Probabilistic Predictions with Federated Learning
 https://pdfs.semanticscholar.org/a76a/bc879da38b4c3acbb6d933fd547cd3c9df15.pdf
-
-
 
 Locally Differentially Private Bayesian Inference
 https://www.youtube.com/watch?v=hvq06NS377E&list=PLSIUOFhnxEiD9uihG5t9ABdPhSVqQ3HWA&index=25
@@ -469,10 +466,8 @@ https://arxiv.org/pdf/2110.14426.pdf
 Differentially Private Bayesian Linear Regression
 https://arxiv.org/pdf/1910.13153.pdf
 
-
 Differentially Private Bayesian Inference for Exponential Families
 https://arxiv.org/pdf/1809.02188.pdf
-
 
 https://omarfoq.github.io/publications.html
 
@@ -527,6 +522,96 @@ https://pdfl.iais.fraunhofer.de/preprints/PDFL_2.pdf
 
 Federated Uncertainty-Aware Learning for Distributed Hospital EHR Data
 https://arxiv.org/abs/1910.12191
+
+### Some videos
+
+Federated learning with TensorFlow Federated (TF World '19)
+https://www.youtube.com/watch?v=m17IgaHaoTI
+
+Federated Learning: Machine Learning on Decentralized Data (Google I/O'19)
+https://www.youtube.com/watch?v=89BGjQYA0uE
+
+TensorFlow Federated (TFF): Machine Learning on Decentralized Data (TF Dev Summit ‘19)
+https://www.youtube.com/watch?v=1YbPmkChcbo
+
+ML Seminar Series - On Heterogeneity in Federated Settings
+https://www.youtube.com/watch?v=EYmc6aOPUe0
+
+Federated learning: Basics and application to the mobile keyboard (ML Tech Talks)
+https://www.youtube.com/watch?v=IXI1AjimfmE
+
+“Federated Learning at Scale” Prof. Mike Rabbat, Meta AI
+https://www.youtube.com/watch?v=j5e7bZLTMH0
+
+Federated Learning on Healthcare
+https://www.youtube.com/watch?v=y2kTWFCK5PM
+
+The Definition of Differential Privacy - Cynthia Dwork
+https://www.youtube.com/watch?v=lg-VhHlztqo
+
+Privacy Preserving AI - Andrew Trask, OpenMined
+https://www.youtube.com/watch?v=NJBBE_SN90A
+
+Neurips 2019 - Federated learning in healthcare
+https://www.youtube.com/watch?v=KR4fOWj7ffY
+
+NVIDIA Research: First Privacy-Preserving Federated Learning System for Medical Imaging
+https://www.youtube.com/watch?v=Jy7ozgwovgg
+
+Building AI with Clara Toolkits for Medical Imaging
+https://www.youtube.com/watch?v=T0Pjki4vXx0
+
+Towards Deep Federated Learning in Healthcare (Invited Talk at CVPR'21 MCV)
+https://www.youtube.com/watch?v=ZQiyH0tlnwM
+
+Federated Learning Applications in Healthcare: Challenges and Opportunities⎟FL workshop
+https://www.youtube.com/watch?v=DtiHRThviWo
+
+Federated Learning in Healthcare
+https://www.youtube.com/results?search_query=federated+learning+in+healthcare
+
+Opportunities and Challenges for Federated Learning in Healthcare
+https://www.youtube.com/watch?v=mu6egK-ctIY
+
+Differential Privacy + Federated Learning Explained (+ Tutorial)
+https://www.youtube.com/watch?v=MOcTGM_UteM
+
+
+
+
+### XAI and Federated Learning
+
+
+
+### Federated Learning in Healthcare 
+
+
+Federated-Learning-In-Healthcare
+https://github.com/albarqouni/Federated-Learning-In-Healthcare
+
+
+https://github.com/owkin
+https://github.com/owkin/FLamby
+
+Introduction to Federated Learning (FL)
+https://github.com/maikia/fl_workshop/blob/main/fl_workshop.ipynb
+
+FedPerl: Semi-Supervised Peer Learning for Skin Lesion Classification
+https://github.com/tbdair/FedPerlV1.0
+
+FedDis: Disentangled Federated Learning for Unsupervised Brain Pathology Segmentation
+https://github.com/albarqounilab/FedDis-NMI
+
+
+Semi-supervised deep learning for fully convolutional networks
+Official implementation of the MICCAI 2017 paper
+https://github.com/bumuckl/SemiSupervisedDLForFCNs
+
+Deep Learning Papers on Medical Image Analysis
+https://github.com/albarqouni/Deep-Learning-for-Medical-Applications
+
+https://albarqouni.github.io/
+https://albarqouni.github.io/codes/federated-learning/
 
 
 ## XAI 
@@ -811,5 +896,5 @@ https://www.amazon.science/blog/amazon-text-to-speech-groups-research-at-icassp-
 Text-To-Speech Synthesis on LJSpeech
 https://paperswithcode.com/sota/text-to-speech-synthesis-on-ljspeech
 
-
-
+https://github.com/albarqouni/aws-ai-bootcamp-labs
+https://github.com/albarqouni/handson-ml2
