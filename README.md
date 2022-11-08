@@ -569,6 +569,25 @@ https://www.youtube.com/watch?v=mu6egK-ctIY
 Differential Privacy + Federated Learning Explained (+ Tutorial)
 https://www.youtube.com/watch?v=MOcTGM_UteM
 
+Recent Advances in Trustworthy Federated Learning
+https://www.youtube.com/watch?v=tCBr_XQwPGY
+
+AIED 2021 Workshop: Qiang Yang "Federated Machine Learning and XAI"
+https://www.youtube.com/watch?v=ajfcAmMoUVU
+
+MONAI Bootcamp 2021 - Federated Learning
+https://www.youtube.com/watch?v=YeYO4JGTBb0
+
+Project MONAI
+https://github.com/Project-MONAI
+
+NVIDIA FLARE:
+Federated Learning from Simulation to Real-World
+https://arxiv.org/pdf/2210.13291.pdf
+
+Holger Roth
+https://www.holgerroth.com/
+
 ### FedML Avestimehr Group
 
 FL4NLP Workshop at ACL22 (Federated Learning for Natural Language Processing)
