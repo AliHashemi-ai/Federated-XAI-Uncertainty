@@ -10,6 +10,14 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9817459
 Clustered Federated Learning: Model-Agnostic Distributed Multitask Optimization Under Privacy Constraints
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9174890
 
+Three Approaches for Personalization with Applications to Federated
+Learning
+https://arxiv.org/pdf/2002.10619.pdf
+
+An Efficient Framework for Clustered Federated Learning
+https://arxiv.org/pdf/2006.04088.pdf
+https://github.com/jichan3751/ifca
+
 Robust and Communication-Efficient Federated Learning From Non-i.i.d. Data
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8889996
 
@@ -589,6 +597,10 @@ Holger Roth
 https://www.holgerroth.com/
 
 ### FedML Avestimehr Group
+
+
+https://fedml.ai/
+
 
 FL4NLP Workshop at ACL22 (Federated Learning for Natural Language Processing)
 https://fl4nlp.github.io/
