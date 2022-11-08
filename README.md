@@ -25,10 +25,8 @@ https://github.com/felisat/clustered-federated-learning/blob/master/clustered_fe
 
 http://wikicfp.com/cfp/call?conference=federated%20learning
 
-
 Awesome Federated Machine Learning 
 https://github.com/innovation-cat/Awesome-Federated-Machine-Learning
-
 
 Awesome Federated Learning
 https://github.com/weimingwill/awesome-federated-learning
@@ -95,7 +93,6 @@ https://neurips.cc/virtual/2022/workshop/50002
 New Frontiers in Federated Learning: Privacy, Fairness, Robustness, Personalization and Data Ownership
 https://neurips.cc/virtual/2021/workshop/21829
 
-
 Federated Learning One World Seminar
 https://www.youtube.com/channel/UCpAXM9I-v76xEPtevcCuA5g/videos
 
@@ -111,13 +108,11 @@ https://arxiv.org/pdf/2107.06917.pdf
 An Inferential Perspective on Federated Learning
 https://blog.ml.cmu.edu/2021/02/19/an-inferential-perspective-on-federated-learning/
 
-
 Flower: A Friendly Federated Learning Framework
 https://www.youtube.com/watch?v=XEH9UCUlVO8&list=PLNG4feLHqCWkfu4GGq4xPrS5jve7WSqF7
 
 Adaptive & Multitask Learning
 https://www.amtl-workshop.org/accepted-papers
-
 
 https://pdfl.iais.fraunhofer.de/
 
@@ -190,7 +185,6 @@ https://arxiv.org/pdf/2103.17150.pdf
 Personalized Federated Learning via Variational Bayesian Inference
 https://icml.cc/media/icml-2022/Slides/17302.pdf
 https://arxiv.org/pdf/2206.07977.pdf
-
 
 Bayesian Framework for Gradient Leakage
 https://github.com/eth-sri/bayes-framework-leakage
@@ -271,10 +265,8 @@ https://assets.amazon.science/6c/67/f0f6209e4a0eb2c54aabb2fce1bc/actperfl-active
 Federated Composite Optimization
 http://proceedings.mlr.press/v139/yuan21d/yuan21d.pdf
 
-
 On Convergence of Federated Averaging Langevin Dynamics
 https://arxiv.org/pdf/2112.05120.pdf
-
 
 FeO2: Federated Learning with Opt-Out Differential Privacy
 https://arxiv.org/pdf/2110.15252.pdf
@@ -301,7 +293,6 @@ https://simons.berkeley.edu/talks/power-adaptivity-representation-learning-meta-
 
 Structure of Constraints in Sequential Decision-Making
 https://simons.berkeley.edu/workshops/schedule/16932
-
 
 Data Privacy: Foundations and Applications
 https://simons.berkeley.edu/programs/privacy2019
@@ -410,7 +401,6 @@ https://github.com/daizhongxiang/Differentially-Private-Federated-Bayesian-Optim
 https://openreview.net/forum?id=OdsuC3H1WQ3
 https://nips.cc/virtual/2021/poster/26102
 
- 
 NeurIPS 2021 
 https://nips.cc/virtual/2021/papers.html?filter=titles&search=federated
  
@@ -432,7 +422,9 @@ https://www.youtube.com/watch?v=I4gkIrsIAjc
 FLOW Seminar #65: Peter Richtárik (KAUST) Permutation Compressor for Faster Distributed Optimization
 https://www.youtube.com/watch?v=aMEj2pkGrcY
 
-
+Federated Transfer Learning: concept and
+applications
+https://arxiv.org/pdf/2010.15561.pdf
 
 ### New Ideas to follow
 
@@ -445,6 +437,7 @@ https://github.com/alshedivat/fedpa
 
 https://colab.research.google.com/github/alshedivat/fedpa/blob/master/fedpa_playground.ipynb#scrollTo=gnRdy42K5EYO
 https://blog.ml.cmu.edu/2021/02/19/an-inferential-perspective-on-federated-learning/
+
 FLOW Seminar #37: Maruan Al-Shedivat (CMU) New Perspective on FL & Data Efficiency of Meta-learning
 https://www.youtube.com/watch?v=YgDzkqo4Rfo&t=1487s
 
@@ -576,12 +569,86 @@ https://www.youtube.com/watch?v=mu6egK-ctIY
 Differential Privacy + Federated Learning Explained (+ Tutorial)
 https://www.youtube.com/watch?v=MOcTGM_UteM
 
+### FedML Avestimehr Group
+
+FL4NLP Workshop at ACL22 (Federated Learning for Natural Language Processing)
+https://fl4nlp.github.io/
+
+https://docs.google.com/presentation/d/1IUq2-c-Jba1vYCKABOk-paPwRMcSwTo5aYhtGdQtVJU/edit#slide=id.gd9c453428_0_16
+
+FedNLP: Benchmarking Federated Learning Methods for Natural Language Processing Tasks
+https://arxiv.org/abs/2104.08815
 
 
+https://fedml.ai/careers/
+
+https://chaoyanghe.com/open-source/
+
+[REFAI Seminar 05/03/22] Federated and Distributed ML at Scale: Systems, Algorithms and Applications
+https://www.youtube.com/watch?v=cmXzXxtZ6wQ
+
+Distributed ML System for Large-scale Models: 
+Dynamic Distributed Training and Scalable Federated Learning
+https://docs.google.com/presentation/d/1PgYaWfvYdJinKsMjxLQNHM6YLFe81voOVNnZNOSYkII/edit#slide=id.p
+
+
+Distributed ML System for Large-scale Models: 
+Dynamic Distributed Training and Scalable Federated Learning
+https://docs.google.com/presentation/d/1hYHNQZhGQoQiRFVquwRB0kTcKzveGFSOLU59nCop-8E/edit#slide=id.p
+
+Distributed/Federated ML - Meta AI
+https://docs.google.com/presentation/d/1LDpmgnd5e5L9X8B7Zs07PIK_MEwvcl3yP_kxMKM4MTs/edit#slide=id.gebce427cb7_1_52
 
 ### XAI and Federated Learning
 
+Interpret Federated Learning with Shapley Values
+https://arxiv.org/ftp/arxiv/papers/1905/1905.04519.pdf
 
+SHAP-Based Explanation Methods: A Review for NLP Interpretability
+https://aclanthology.org/2022.coling-1.406.pdf
+
+Federated Learning Incentive Mechanism Design via Enhanced Shapley Value Method
+https://www.hindawi.com/journals/wcmc/2022/9690657/
+
+
+
+Guan Wang
+https://scholar.google.com/citations?hl=fr&user=f2xWmkgAAAAJ&view_op=list_works
+
+Measure Contribution of Participants in Federated Learning
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9006179
+
+https://www.fedai.org/
+
+Data Privacy and Trustworthy
+Machine Learning
+https://arxiv.org/pdf/2209.06529.pdf
+
+Model Explanations with Differential Privacy
+https://dl.acm.org/doi/pdf/10.1145/3531146.3533235
+
+Reza Shokri
+[https://dl.acm.org/doi/abs/10.1145/3531146.3533235](https://scholar.google.com/citations?hl=en&user=udlZXXcAAAAJ&view_op=list_works&sortby=pubdate)
+
+iFedAvg – Interpretable Data-Interoperability for Federated Learning
+https://arxiv.org/pdf/2107.06580.pdf
+https://github.com/davidroschewitz/ifedavg/blob/main/source/fl_process.py
+
+Towards Trustworthy AI in Dentistry
+https://journals.sagepub.com/doi/epub/10.1177/00220345221106086
+
+Federated Learning in Dentistry: Chances and Challenges
+https://journals.sagepub.com/doi/epub/10.1177/00220345221108953
+
+FedAUXfdp: Differentially Private One-Shot Federated Distillation
+https://arxiv.org/pdf/2205.14960.pdf
+
+Explainable AI-based Federated Deep Reinforcement Learning for Trusted Autonomous Driving
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9824617
+
+Trade-offs between Privacy-Preserving and Explainable Machine Learning in
+Healthcare
+https://tobias-budig.com/docs/AIFB_Seminararbeit-10.pdf
 
 ### Federated Learning in Healthcare 
 
