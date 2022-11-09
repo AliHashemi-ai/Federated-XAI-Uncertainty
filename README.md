@@ -26,6 +26,70 @@ https://github.com/felisat/fl_distill
 https://github.com/felisat/federated-learning
 https://github.com/felisat/clustered-federated-learning/blob/master/clustered_federated_learning.ipynb
 
+
+# Focused materials 
+Federated Learning: Challenges, Methods, and Future Directions
+https://blog.ml.cmu.edu/2019/11/12/federated-learning-challenges-methods-and-future-directions/
+
+2021 Google Workshop
+https://www.youtube.com/watch?v=0gSc_9QqXJg&list=PLSIUOFhnxEiD9uihG5t9ABdPhSVqQ3HWA
+https://events.withgoogle.com/2021-workshop-on-federated-learning-and-analytics/pre-recorded-talks/#content
+https://events.withgoogle.com/federated-learning-workshop-using-tensorflow-federated/schedule/#content
+https://colab.research.google.com/drive/129BGJOHk8k4ENy7vgeL_YEBeS8BCML9T?usp=sharing#scrollTo=B6v7JwuBArvz&uniqifier=1
+
+Fed-BioMed 
+https://gitlab.inria.fr/fedbiomed/fedbiomed#run-a-researcher-notebook
+
+Differentially Private Bayesian Linear Regression
+https://arxiv.org/pdf/1910.13153.pdf
+
+Personalized Federated Learning with Gaussian Processes
+https://arxiv.org/pdf/2106.15482.pdf
+https://nips.cc/virtual/2021/poster/27410
+https://proceedings.neurips.cc/paper/2021/file/46d0671dd4117ea366031f87f3aa0093-Paper.pdf
+
+Federated Learning via Posterior Averaging
+https://github.com/AliHashemi-ai/fedpa
+https://arxiv.org/pdf/2010.05273.pdf
+https://colab.research.google.com/github/alshedivat/fedpa/blob/master/fedpa_playground.ipynb#scrollTo=a9N1q-bXGtO_
+https://blog.ml.cmu.edu/2021/02/19/an-inferential-perspective-on-federated-learning/
+https://www.youtube.com/watch?v=YgDzkqo4Rfo&t=1487s
+
+Personalized Federated Learning through Local Memorization
+https://github.com/omarfoq/knn-per
+https://arxiv.org/pdf/2111.09360.pdf
+https://github.com/omarfoq/knn-per/blob/main/examples/fed-avg.md
+https://github.com/facebookresearch/faiss
+https://github.com/facebookresearch/faiss/blob/main/INSTALL.md
+https://omarfoq.github.io/pdfs/talk_gdr_rsd_distributed_learning_22.pdf
+https://omarfoq.github.io/pdfs/poster_icml_22.pdf
+https://github.com/omarfoq/knn-per/blob/main/learners/learners_ensemble.py
+
+Personalized Federated Learning via Variational Bayesian Inference
+https://proceedings.mlr.press/v162/zhang22o.html
+https://icml.cc/media/icml-2022/Slides/17302.pdf
+https://proceedings.mlr.press/v162/zhang22o/zhang22o.pdf
+
+Variational Federated Multi-Task Learning
+https://arxiv.org/pdf/1906.06268.pdf
+
+FedPop: A Bayesian Approach for Personalised Federated Learning
+https://arxiv.org/pdf/2206.03611.pdf
+
+FedBE: Making Bayesian Model Ensemble Applicable to Federated Learning
+https://github.com/hongyouc/fedbe
+https://arxiv.org/pdf/2009.01974.pdf
+
+Differentially Private Federated Bayesian Optimization with Distributed Exploration
+https://papers.nips.cc/paper/2021/file/4c27cea8526af8cfee3be5e183ac9605-Paper.pdf
+https://nips.cc/virtual/2021/poster/26102
+https://daizhongxiang.github.io/papers/dp_fbo.pdf
+https://github.com/daizhongxiang/Differentially-Private-Federated-Bayesian-Optimization
+
+Bayesian Nonparametric Federated Learning of Neural Networks
+http://proceedings.mlr.press/v97/yurochkin19a/yurochkin19a.pdf
+
+
 # Resources 
 
 
