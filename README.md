@@ -28,6 +28,21 @@ https://github.com/felisat/clustered-federated-learning/blob/master/clustered_fe
 
 
 # Focused materials 
+
+Federated Learning Tutorial 2020
+https://sites.google.com/view/fl-tutorial/
+https://slideslive.com/38935813/federated-learning-tutorial
+https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view
+
+Federated Learning: Recent Advances and New Challenges
+https://neurips.cc/virtual/2022/workshop/50002
+
+New Frontiers in Federated Learning: Privacy, Fairness, Robustness, Personalization and Data Ownership
+https://neurips.cc/virtual/2021/workshop/21829
+
+Federated Learning: Challenges, Methods, and Future Directions
+https://arxiv.org/pdf/1908.07873.pdf
+
 Federated Learning: Challenges, Methods, and Future Directions
 https://blog.ml.cmu.edu/2019/11/12/federated-learning-challenges-methods-and-future-directions/
 
@@ -36,9 +51,28 @@ https://www.youtube.com/watch?v=0gSc_9QqXJg&list=PLSIUOFhnxEiD9uihG5t9ABdPhSVqQ3
 https://events.withgoogle.com/2021-workshop-on-federated-learning-and-analytics/pre-recorded-talks/#content
 https://events.withgoogle.com/federated-learning-workshop-using-tensorflow-federated/schedule/#content
 https://colab.research.google.com/drive/129BGJOHk8k4ENy7vgeL_YEBeS8BCML9T?usp=sharing#scrollTo=B6v7JwuBArvz&uniqifier=1
+https://colab.research.google.com/github/tensorflow/federated/blob/v0.39.0/docs/tutorials/federated_learning_with_differential_privacy.ipynb#scrollTo=ke7EyuvG0Zyn
+
+2020 Google Workshop
+https://www.youtube.com/watch?v=q-dmW2F0KC0&list=PLSIUOFhnxEiCJS8q6SYdc0944xlV_6Jbu
+
+Differential Privacy in TFF
+https://www.tensorflow.org/federated/tutorials/federated_learning_with_differential_privacy
+https://github.com/tensorflow/federated/blob/v0.39.0/docs/tutorials/federated_learning_with_differential_privacy.ipynb
+
+Federated Learning Workshop - FLA Research Demos & TFF Tutorials
+https://www.youtube.com/watch?v=ssM0iQRR94E
+https://colab.research.google.com/github/tensorflow/federated/blob/v0.39.0/docs/tutorials/federated_learning_with_differential_privacy.ipynb#scrollTo=ke7EyuvG0Zyn
 
 Fed-BioMed 
+https://marcolorenzi.github.io/research.html
 https://gitlab.inria.fr/fedbiomed/fedbiomed#run-a-researcher-notebook
+http://proceedings.mlr.press/v139/fraboni21a.html
+
+
+Clustered Sampling: Low-Variance and Improved Representativity for Clients Selection in Federated Learning
+https://github.com/Accenture/Labs-Federated-Learning/tree/clustered_sampling
+http://proceedings.mlr.press/v139/fraboni21a/fraboni21a.pdf
 
 Differentially Private Bayesian Linear Regression
 https://arxiv.org/pdf/1910.13153.pdf
